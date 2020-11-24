@@ -3,4 +3,9 @@
 	"description": "Run qb-web on heroku",
 	"repository": "https://github.com/shakilofficial0/qb-web",
 	"keywords": ["UEHToR"],
+	"buildpacks": [
+		{
+			"url": "heroku/nodejs"
+		}
+	]
 }
