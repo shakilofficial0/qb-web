@@ -5,6 +5,10 @@
 [![Gitter](https://badges.gitter.im/qb-web/community.svg)](https://gitter.im/qb-web/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![CI](https://github.com/CzBiX/qb-web/workflows/CI/badge.svg)](https://github.com/CzBiX/qb-web/actions)
 
+## Test
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Features
 Keywords: SPA, RSS, Search, Responsive Design, Modern Design, i18n
 
